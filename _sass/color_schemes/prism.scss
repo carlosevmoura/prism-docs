@@ -1,0 +1,47 @@
+// OSU Color Scheme
+$osu-scarlet: #BA0C2F;
+$osu-gray: #A7B1B7;
+$osu-white: #FFFFFF;
+
+$osu-scarlet-dk-40: #70071c;
+$osu-scarlet-dk-60: #4a0513;
+
+$osu-gray-lt-80: #eff1f2;
+$osu-gray-lt-60: #dfe3e5;
+$osu-gray-lt-40: #cfd4d8;
+$osu-gray-lt-20: #bfc6cb;
+
+$osu-gray-dk-80: #212325;
+$osu-gray-dk-60: #3f4443;
+$osu-gray-dk-40: #646a6e;
+$osu-gray-dk-20: #868e92;
+
+$osu-accent-turquoise: #41b6e6;
+$osu-accent-tomato: #ff6a39;
+$osu-accent-lime: #8edd65;
+$osu-accent-sienna: #946037;
+$osu-accent-salmon: #fb637e;
+$osu-accent-purple: #830065;
+$osu-accent-aquamarine: #6ebbab;
+$osu-accent-seagreen: #26686d;
+$osu-accent-mango: #ffb600;
+
+// Color Schemes
+$body-background-color: $osu-white;
+$body-heading-color: $osu-gray;
+$body-text-color: $osu-gray-dk-80;
+
+$link-color: $osu-accent-turquoise;
+$nav-child-link-color: $osu-gray-dk-80;
+
+$sidebar-color: $osu-scarlet;
+
+$base-button-color: $osu-gray-lt-80;
+$btn-primary-color: $osu-white;
+
+$code-background-color: $osu-gray-lt-80;
+
+$feedback-color: darken($sidebar-color, 5%);
+$table-background-color: $osu-white;
+$search-background-color: $osu-white;
+$search-result-preview-color: $osu-gray-dk-20;
